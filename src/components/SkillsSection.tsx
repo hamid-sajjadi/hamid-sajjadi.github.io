@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 const skillCategories = [
   {
     title: "Microsoft Office & BI",
-    skills: ["Excel", "PowerPoint", "Project", "Power BI", "Tableau"],
+    skills: ["Excel", "PowerPoint", "MS Project", "Power BI", "Tableau"],
   },
   {
     title: "Programming & Data",

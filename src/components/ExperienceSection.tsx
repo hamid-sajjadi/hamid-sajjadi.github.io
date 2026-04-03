@@ -27,7 +27,7 @@ const experiences = [
     ],
   },
   {
-    role: "Data Analyst (Full-time)",
+    role: "Data Analyst",
     company: "Decamond",
     location: "Tehran",
     period: "Nov 2020 – Aug 2022",
