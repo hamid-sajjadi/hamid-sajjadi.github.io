@@ -13,7 +13,7 @@ const ContactSection = () => {
         <p className="text-primary font-heading text-sm tracking-[0.3em] uppercase mb-3">Connect</p>
         <h2 className="font-heading text-3xl md:text-4xl font-bold mb-6">Let's Work Together</h2>
         <p className="text-muted-foreground text-lg mb-10 max-w-xl mx-auto">
-          I'm open to Data Analyst, Supply Chain Analyst, Business Development, and Strategic Planning roles across the EU. Feel free to reach out.
+          I'm open to Data-driven Strategy and Business Analysis roles across the EU. Feel free to reach out.
         </p>
 
         <div className="flex flex-wrap items-center justify-center gap-4">
