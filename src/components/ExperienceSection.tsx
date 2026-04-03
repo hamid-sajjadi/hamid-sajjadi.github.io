@@ -15,8 +15,8 @@ const experiences = [
     ],
   },
   {
-    role: "Smart Passenger Information System",
-    company: "Hitachi Rail (University-Industry)",
+    role: "Smart Passenger Information System (University-Industry Collaboration)",
+    company: "Hitachi Rail",
     location: "Torino, Italy",
     period: "Sep 2023 – Feb 2024",
     bullets: [

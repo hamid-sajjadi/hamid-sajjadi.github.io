@@ -3,10 +3,10 @@ import { Award, Brain, Building2, Activity } from "lucide-react";
 
 const projects = [
   {
-    title: "AI Financial Education Platform",
-    tag: "Business Strategy — 3rd Place",
+    title: "AI Financial Education Platform — Reply Challenge",
+    tag: "Reply Business Strategy — 3rd Place",
     description:
-      "Analyzed global demand for financial education and developed a B2C strategy for an AI-powered learning platform. Conducted demand analysis, strategy planning, and cost analysis.",
+      "Competed in the Reply Creative Challenge, placing 3rd. Analyzed global demand for financial education and developed a B2C go-to-market strategy for an AI-powered learning platform by Reply, including demand analysis, competitive benchmarking, strategy planning, and cost projection.",
     icon: Award,
   },
   {

@@ -54,7 +54,7 @@ const ContactSection = () => {
       </motion.div>
 
       <div className="mt-20 pt-8 border-t border-border text-muted-foreground text-xs">
-        © {new Date().getFullYear()} Hamidreza Sajjadi. All rights reserved.
+        © {new Date().getFullYear()} Hamid Sajjadi. All rights reserved.
       </div>
     </section>
   );
