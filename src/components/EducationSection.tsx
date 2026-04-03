@@ -3,7 +3,7 @@ import { GraduationCap } from "lucide-react";
 
 const education = [
   {
-    degree: "MSc in Data Science and Engineering",
+    degree: "MSc in Data Science",
     school: "Politecnico di Torino",
     period: "Sep 2022 – Expected Jul 2026",
     location: "Torino, Italy",

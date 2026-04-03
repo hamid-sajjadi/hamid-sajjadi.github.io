@@ -2,16 +2,16 @@ import { motion } from "framer-motion";
 
 const skillCategories = [
   {
-    title: "Languages & Tools",
-    skills: ["Python", "SQL", "Git", "AWS (Athena)", "SAP"],
+    title: "Microsoft Office & BI",
+    skills: ["Excel", "PowerPoint", "Project", "Power BI", "Tableau"],
   },
   {
-    title: "Data & Visualization",
-    skills: ["Power BI", "Tableau", "Minitab", "Excel", "SPSS Modeler"],
+    title: "Programming & Data",
+    skills: ["Python", "SQL", "AWS (Athena)", "Git", "SAP"],
   },
   {
-    title: "Machine Learning",
-    skills: ["Predictive Modeling", "NLP", "Time-Series Analysis", "Anomaly Detection", "MLflow"],
+    title: "Analytics & Modeling",
+    skills: ["Minitab", "Predictive Modeling", "NLP", "Time-Series Analysis", "Anomaly Detection"],
   },
   {
     title: "Soft Skills",

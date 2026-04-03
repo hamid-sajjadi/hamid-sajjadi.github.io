@@ -18,18 +18,18 @@ const HeroSection = () => {
           transition={{ duration: 0.8 }}
         >
           <p className="text-primary font-heading text-sm md:text-base tracking-[0.3em] uppercase mb-6">
-            Data Scientist & Engineer
+            Data & Business Analyst
           </p>
 
           <h1 className="font-heading text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight leading-[0.95] mb-6">
-            <span className="text-foreground">Hamidreza</span>
+            <span className="text-foreground">Hamid</span>
             <br />
             <span className="text-gradient">Sajjadi</span>
           </h1>
 
           <p className="text-muted-foreground text-lg md:text-xl max-w-2xl mx-auto mb-8 font-light leading-relaxed">
-            MSc in Data Science & Engineering at Politecnico di Torino. 
-            Passionate about turning complex data into actionable insights through ML and analytics.
+            MSc in Data Science at Politecnico di Torino. 
+            Passionate about bridging data analytics and business strategy to drive informed decisions and sustainable growth.
           </p>
 
           <div className="flex items-center justify-center gap-6 text-muted-foreground text-sm mb-10">
